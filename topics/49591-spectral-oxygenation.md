@@ -1,8 +1,9 @@
 # 🌈 49591: Hyperspectral and Multispectral Image Analysis for Measuring Tissue Oxygenation Levels
 
 > ### ⚡ Quick Look
-> **The Problem:** Measuring oxygen levels in tissue usually requires invasive needles. We want to do it non-invasively using light and special cameras.
-> **The Tech:** Multispectral setup using an RGB camera and the **Beer-Lambert Law**.
+> **The Problem:** Traditionally, tissue oxygenation is measured using invasive probes, which cause tissue trauma and sample only a small volume. We want to do it non-invasively using reflected light information and tissue proporties.
+> 
+> **The Tech:** Multispectral imaging setup and image processing techniques.
 
 ---
 
