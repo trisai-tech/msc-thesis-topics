@@ -61,6 +61,7 @@ A proof-of-concept pipeline that indicates which PCI regions are in view during 
 
 #### References for figures
 Pseudomyxoma Survivor. (2023). FAQ: What is the PCI score? https://www.pseudomyxomasurvivor.org/faq-what-is-the-pci-score/
+
 Pinnapu, S., & Giduthuri, S. (2024). Celebrating open science and enterprise AI innovation on MONAI’s 5th anniversary. NVIDIA Technical Blog. https://developer.nvidia.com/blog/celebrating-open-science-and-enterprise-ai-innovation-on-monais-5th-anniversary/
 
 ---
