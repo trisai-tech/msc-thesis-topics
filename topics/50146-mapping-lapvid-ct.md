@@ -8,7 +8,7 @@
 ---
 
 ### 📸 Visualizing the concept
-![Visualization of mapping workflow](../assets/topic-50146-preview.png)
+![Visualization of mapping workflow](assets/topic-50146-preview.png)
 
 ---
 
@@ -28,7 +28,7 @@ During staging laparoscopy for peritoneal metastasis, surgeons assign a **Perito
 This scoring is subjective and depends on the surgeon’s expertise.
 Familiarity with the anatomy and intra-operative viewing angles is necessary for a PCI scoring system to support an oncologic surgeon with anatomically grounded reasoning.
 
-![Visualization of PCI scoring system](../assets/topic-50146-PCI.png)
+![Visualization of PCI scoring system](assets/topic-50146-PCI.png)
 
 At the same time, patients routinely undergo **pre-operative CT imaging**, which contains rich anatomical information.
 Modern **foundation models** can segment abdominal organs on CT with minimal supervision, enabling structured anatomical priors for PCI scoring.
