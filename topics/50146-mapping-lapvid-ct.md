@@ -3,6 +3,7 @@
 > ### ⚡ Quick Look
 > **The Problem:** Surgeons score cancer spread (PCI) visually, which is subjective. This topic is situated within a research line towards more objective PCI scoring.
 > By mapping 3D CT data and 2D surgical video, you'll investigate how pre-operative anatomical structure can support intra-operative organ and region identification.
+>
 > **The Tech:** Foundation Models (TotalSegmentator, SAM), Depth-from-video, and Cross-modal registration.
 
 ---
