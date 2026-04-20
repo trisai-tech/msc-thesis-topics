@@ -8,7 +8,7 @@
 ---
 
 ### 📸 Visualizing the concept
-![Visualization of mapping workflow](assets/topic-50146-preview.png)
+![Visualization of mapping workflow](assets/topic-50146-preview.jpg)
 
 ---
 
